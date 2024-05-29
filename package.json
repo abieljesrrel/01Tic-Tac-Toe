@@ -3,12 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Juego de Tic Tac Toe o cruz y circulo personalizado con emojis de perro y gato",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "author": "Abiel Jesrrel (Relly) Delgado Lee <jesrrel1989.1989@gmail.com>",
   "dependencies": {
     "canvas-confetti": "1.9.3",
     "react": "^18.2.0",
