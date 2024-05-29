@@ -93,6 +93,10 @@ const updateBoard = (index) => {
       </Square>
     </section>
 
+    <section className="text">
+      <spam>Realizado con 🩷 por Abiel Jesrrel (Relly) D. Lee <a href="https://github.com/abieljesrrel" target="_blank">@abieljesrrel</a></spam>
+    </section>
+
     <WinnerModal resetGame={resetGame} winner={winner}  />
  
   </main>
