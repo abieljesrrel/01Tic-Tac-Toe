@@ -94,7 +94,7 @@ const updateBoard = (index) => {
     </section>
 
     <section className="text">
-      <spam>Realizado con 🩷 por Abiel Jesrrel (Relly) D. Lee <a href="https://github.com/abieljesrrel" target="_blank">@abieljesrrel</a></spam>
+      <span>Realizado con 🩷 por Abiel Jesrrel (Relly) D. Lee <a href="https://github.com/abieljesrrel" target="_blank">@abieljesrrel</a></span>
     </section>
 
     <WinnerModal resetGame={resetGame} winner={winner}  />
