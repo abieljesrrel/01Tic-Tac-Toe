@@ -47,7 +47,7 @@ const updateBoard = (index) => {
   //Aqui se guarda la partida
   saveGameStorage({
     board: newBoard, 
-    turn:newTurn
+    turn: newTurn
   })
 
   const newWinner = checkWinnerFrom(newBoard)
